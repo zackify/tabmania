@@ -38,6 +38,6 @@ Our website does not include or utilize any third-party analytics, advertising, 
 
 Since we do not collect any information, there is no data subject to access, correction, or deletion requests. Your privacy is automatically protected through our no-data approach.
 
-###Changes to This Privacy Policy
+### Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. The updated version will be indicated by an updated "Last Updated" date.
