@@ -34,7 +34,7 @@ We do not use any cookies, including essential cookies, tracking cookies, or adv
 
 Our website does not include or utilize any third-party analytics, advertising, or tracking services.
 
-###Your Rights
+### Your Rights
 
 Since we do not collect any information, there is no data subject to access, correction, or deletion requests. Your privacy is automatically protected through our no-data approach.
 
